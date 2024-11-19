@@ -11,6 +11,6 @@
     @font-face {
     font-family: 'MurrayHill Bd BT Bold';
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     src: local('MurrayHill Bd BT Bold'), url('MURYHILB.woff') format('woff');
     }
